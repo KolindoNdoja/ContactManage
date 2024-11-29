@@ -1,0 +1,26 @@
+# ninja log v5
+14	908	7542926791478735	ContactManage_autogen/timestamp	1e226e24dca0261c
+14	908	7542926791478735	ContactManage_autogen/mocs_compilation.cpp	1e226e24dca0261c
+14	908	7542926791478735	C:/Users/Kolindo/Documents/ContactManage/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Profile/ContactManage_autogen/timestamp	1e226e24dca0261c
+14	908	7542926791478735	C:/Users/Kolindo/Documents/ContactManage/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Profile/ContactManage_autogen/mocs_compilation.cpp	1e226e24dca0261c
+943	1609	7542926799153334	CMakeFiles/ContactManage.dir/contact_manager.cpp.o	eed2197324dc0ffb
+909	2973	7542926812809562	CMakeFiles/ContactManage.dir/ContactManage_autogen/mocs_compilation.cpp.o	c18a59f068b3b0e4
+918	2997	7542926813049617	CMakeFiles/ContactManage.dir/main.cpp.o	e5bd5d993d7d0f45
+930	3665	7542926819738955	CMakeFiles/ContactManage.dir/mainwindow.cpp.o	1392ad36821bb778
+3665	4010	7542926823154954	ContactManage	587962ff3b2c0d8d
+4010	4071	0	CMakeFiles/install.util	6fd41589b331a139
+37	82	0	CMakeFiles/install.util	6fd41589b331a139
+19	50	0	CMakeFiles/clean.additional	92454c18604de102
+51	74	0	clean	3fba8bbb28d0f818
+19	42	0	CMakeFiles/clean.additional	92454c18604de102
+42	55	0	clean	3fba8bbb28d0f818
+24	944	7542927287606436	ContactManage_autogen/timestamp	1e226e24dca0261c
+24	944	7542927287606436	ContactManage_autogen/mocs_compilation.cpp	1e226e24dca0261c
+24	944	7542927287606436	C:/Users/Kolindo/Documents/ContactManage/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Profile/ContactManage_autogen/timestamp	1e226e24dca0261c
+24	944	7542927287606436	C:/Users/Kolindo/Documents/ContactManage/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Profile/ContactManage_autogen/mocs_compilation.cpp	1e226e24dca0261c
+973	1539	7542927294287941	CMakeFiles/ContactManage.dir/contact_manager.cpp.o	eed2197324dc0ffb
+945	3002	7542927308911227	CMakeFiles/ContactManage.dir/ContactManage_autogen/mocs_compilation.cpp.o	c18a59f068b3b0e4
+953	3019	7542927309091275	CMakeFiles/ContactManage.dir/main.cpp.o	e5bd5d993d7d0f45
+961	3691	7542927315802784	CMakeFiles/ContactManage.dir/mainwindow.cpp.o	1392ad36821bb778
+3692	4039	7542927319249420	ContactManage	587962ff3b2c0d8d
+4039	4095	0	CMakeFiles/install.util	6fd41589b331a139

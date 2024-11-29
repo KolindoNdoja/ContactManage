@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_ContactManage_FILE C:/Users/Kolindo/Documents/ContactManage/build/Boot2Qt_6_8_0_Raspberry_Pi_Development_Boards_64bit-Debug/ContactManage)
+set(__QT_DEPLOY_TARGET_ContactManage_TYPE EXECUTABLE)
